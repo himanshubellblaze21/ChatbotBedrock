@@ -90,3 +90,6 @@ def extract_text(file_name, file_type, s3_bucket):
                 print(f"⚠️ Could not delete {local_path}, it may still be in use.")
 
     return text
+
+
+
